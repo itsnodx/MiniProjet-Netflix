@@ -142,4 +142,4 @@ Ces analyses constituent une bonne base pour de futurs travaux, par exemple :
 ---
 
 ## Auteur
-Projet réalisé par Mouctar Daffe dans le cadre du module d’analyse de données.
+Projet réalisé dans le cadre du module d’analyse de données.
