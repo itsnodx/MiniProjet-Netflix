@@ -94,7 +94,7 @@ L’app est accessible directement en ligne (voir lien plus haut).
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/Mdaffe17/MiniProjet-Netflix
+git clone https://github.com/itsnodx/MiniProjet-Netflix
 cd miniprojet-netflix
 ```
 ---
